@@ -1,6 +1,6 @@
 hi, i'm Ahmad Angga Handoko, a passionate self-taught full-stack developer from indonesia.
   
-- 💼 any freelance work? do reach, [email](mailto:ahmadangga.h@protonmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:ahmadangga.h@umsida.ac.id) :)
 
 
 <!--h1 align="center">Hello there!</h1>
