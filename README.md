@@ -1,7 +1,6 @@
-hi, i'm [Ahmad Angga Handoko], a passionate self-taught deep learning engineering, full-stack developer, and a freelance software engineer from indonesia.
+hi, i'm [Ahmad Angga Handoko], a passionate self-taught full-stack developer from indonesia.
   
 - 💼 any freelance work? do reach, [email](mailto:ahmadangga.h@protonmail.com) :)
-- 💬 ask me about anything, i am happy to help;
 
 
 <!--h1 align="center">Hello there!</h1>
