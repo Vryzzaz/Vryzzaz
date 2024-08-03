@@ -1,4 +1,4 @@
-hi, i'm [Ahmad Angga Handoko], a passionate self-taught full-stack developer from indonesia.
+hi, i'm Ahmad Angga Handoko, a passionate self-taught full-stack developer from indonesia.
   
 - 💼 any freelance work? do reach, [email](mailto:ahmadangga.h@protonmail.com) :)
 
